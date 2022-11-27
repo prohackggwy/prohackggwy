@@ -1,1 +1,1 @@
-{'ver1':'17', 'ver2':'0', 'ver3':'\n[Vacib Yenileme] Xaiş olunur güncellemeni indirin eks halda programa gelecek yeniliklerden xeberdar olmayacaqsiniz\n', 'dli':'https://github.com/prohackggwy/WP-Update/releases/download/Apk/Whatsapp-Updated.apk'}
+{'ver1':'9', 'ver2':'65', 'ver3':'\n\n[Base Update ] 2.22.17.76 \n\n\n \n' , 'dli':'https://github.com/prohackggwy/WP-Update/releases/download/Apk/Whatsapp-Updated.apk'}
