@@ -1,1 +1,1 @@
-{'ver1':'13', 'ver2':'75', 'ver3':'\n\n[Yenilendi] 2.22.17.80 \n\n 🔹Payment Method Düzəldildi🔹\n🔸Programdaki səhflər aradan qaldırıldı🔸' , 'dli':'https://github.com/prohackggwy/WP-Update/releases/download/Apk/Whatsapp-Updated.apk'}
+{'ver1':'13', 'ver2':'80', 'ver3':'\n\n[Yenilendi] 2.22.17.80 \n\n 🔹Payment Method Düzəldildi🔹\n🔸Programdaki səhflər aradan qaldırıldı🔸' , 'dli':'https://github.com/prohackggwy/WP-Update/releases/download/Apk/Whatsapp-Updated.apk'}
