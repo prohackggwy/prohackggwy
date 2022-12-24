@@ -1,4 +1,4 @@
-{'ver1':'9', 'ver2':'45', 'ver3':'🔹🔹', 'dli':'https://github.com/prohackggwy/WP-Update/releases/download/Drama/Whatsapp-Updated-V2.apk', 'exp925':'1', 'exp935':'137', 'exp929':'150', 'exp930':'107'}
+{'ver1':'9', 'ver2':'45', 'ver3':'🔹İlərləmə bar'ı dəyişdirildi🔹', 'dli':'https://github.com/prohackggwy/WP-Update/releases/download/Drama/Whatsapp-Updated-V2.apk', 'exp925':'1', 'exp935':'137', 'exp929':'150', 'exp930':'107'}
 
 
 
