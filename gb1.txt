@@ -1,1 +1,1 @@
-{'ver1':'13', 'ver2':'80', 'ver3':'\n\n[Base Update ] 2.22.17.77 \n\n\n \n' , 'url':'https://github.com/prohackggwy/WP-Update/releases/download/Apk/Whatsapp-Updated.apk'}
+{'ver1':'14', 'ver2':'0', 'ver3':'\n\n[Base Update ] 2.22.17.77 \n\n\n \n 🛠️ İlərləmə bar'ı dəyişdirildi 🛠️' , 'url':'https://github.com/prohackggwy/WP-Update/releases/download/Apk/Whatsapp-Updated.apk'}
